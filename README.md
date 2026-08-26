@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Rymot Local Banner](./assets/rymot-local.jpg#gh-light-mode-only)
+![Rymot Local Banner](./assets/rymot-local.jpg)
 
 </div>
 
