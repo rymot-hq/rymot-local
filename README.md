@@ -1,7 +1,7 @@
 # Rymot Local
 
 <!-- Banner Image Placeholder - Replace with your uploaded banner image -->
-![Rymot Local Banner](./assets/banner.png)
+![Rymot Local Banner](./assets/rymot-local.jpg)
 
 ## Overview
 
