@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Rymot Local Banner](./assets/rymot-local.jpg)
+![Rymot Local Banner](./assets/banner.png)
 
 </div>
 
