@@ -37,19 +37,31 @@ Just a deeper understanding of how you work.
 
 ## Getting Started
 
-1. Clone or download Rymot Local
-2. Install dependencies
-3. Launch the application
+### Download Rymot Local
+
+Get the latest version for your operating system:
+
+- **[Download for macOS](https://rymot.io/local/download)** — Intel & Apple Silicon
+- **[Download for Windows](https://rymot.io/local/download)** — Windows 10+
+- **[Download for Linux](https://rymot.io/local/download)** — Ubuntu, Fedora, and more
+
+All downloads are available on the [Rymot Local Download Page](https://rymot.io/local/download).
+
+### Setup Instructions
+
+1. Download Rymot Local for your operating system
+2. Install the application
+3. Launch Rymot Local
 4. Configure your profile and preferences
 5. Start your first focus session
 
-For detailed setup instructions and system requirements, refer to the [documentation](./docs).
+For detailed setup instructions and system requirements, refer to the [Rymot Local Documentation](https://rymot.io/local).
 
 ---
 
 ## Documentation
 
-For guides, API documentation, and detailed feature explanations, visit the [Rymot Local Documentation](./docs).
+For guides, API documentation, and detailed feature explanations, visit the [Rymot Local Documentation](https://rymot.io/local).
 
 ---
 
@@ -80,3 +92,5 @@ We will investigate and respond as quickly as possible.
 ---
 
 **Made with ❤️ for knowledge workers who value privacy and deep work.**
+
+[Visit Rymot.io](https://rymot.io)
